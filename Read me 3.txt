@@ -1,1 +1,4 @@
 This is the basic file 3
+
+This is changed file
+This file will be renamed
