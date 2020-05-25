@@ -1,1 +1,7 @@
+
 This is to be merged 
+
+Sample 1
+
+This is the add file
+
